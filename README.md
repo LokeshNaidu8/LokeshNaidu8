@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Lokesh 👋
 
-<!--
-**LokeshNaidu8/LokeshNaidu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Python Developer & Software Architect at Dinero Software
 
-Here are some ideas to get you started:
+I design and build reliable backend systems and APIs, with a focus on scalable services, thoughtful architecture, and practical solutions to complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+- 🏗️ I work on backend systems and software architecture.
+- 🐍 I build with Python, Django, and FastAPI.
+- 📡 I’m interested in event-driven systems and Kafka.
+- ☁️ I work with AWS and cloud-based services.
+- 🌐 I’m building Portfolio 2.0 with Next.js.
+- 🎮 I created PongSwitch, a Unity mobile arcade game.
+- 🤝 I enjoy sharing ideas and collaborating on useful projects.
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- C#
+
+### Backend & APIs
+- Django
+- FastAPI
+- REST APIs
+- WebSockets
+- Microservices
+
+### Messaging & Architecture
+- Apache Kafka
+- Event-driven systems
+- Backend architecture
+- System design
+
+### Cloud & DevOps
+- AWS
+- Docker
+- Git
+- CI/CD
+
+### Frontend
+- Next.js
+- React
+- HTML
+- CSS
+
+### Game Development
+- Unity
+- Mobile game development
+- Game design
+
+## 🚀 Featured Projects
+
+### [Portfolio 2.0](https://github.com/LokeshNaidu8/portfolio2.0)
+A modern Next.js portfolio project showcasing my work, experience, and technical interests.
+
+### [PongSwitch](https://github.com/LokeshNaidu8/PongSwitch)
+A Unity mobile arcade game inspired by pong, featuring color-changing gameplay and immersive music.
+
+## 📊 GitHub Stats
+
+<!-- Dynamic widgets; customize or remove as you like. -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokeshNaidu8&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshNaidu8&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LokeshNaidu8&hide_border=true)
+
+## 📌 Current Focus
+
+- Building scalable backend systems and architecture solutions
+- Exploring modern web and distributed system patterns
+- Continuing to evolve my product and portfolio work
+- Developing engaging game experiences in Unity
+
+---
+
+> “Build systems that scale, solve real problems, and are a joy to work with.”
