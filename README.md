@@ -62,11 +62,6 @@ A Unity mobile arcade game inspired by pong, featuring color-changing gameplay a
 
 ## 📊 GitHub Stats
 
-<!-- Dynamic widgets; customize or remove as you like. -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokeshNaidu8&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshNaidu8&layout=compact&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=LokeshNaidu8&hide_border=true)
 
 ## 📌 Current Focus
